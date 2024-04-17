@@ -25,6 +25,8 @@ bin/
 
 ### VS Code ###
 .vscode/
+.gitignore
+TinkoffSummerEx.iml
 
 ### Mac OS ###
 .DS_Store
